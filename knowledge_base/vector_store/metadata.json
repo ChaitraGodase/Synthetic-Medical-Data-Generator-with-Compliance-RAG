@@ -1,0 +1,67 @@
+[
+  {
+    "chunk_id": 1,
+    "source": "pneumonia_overview.md",
+    "text": "# Pneumonia Overview\n\n## Document Metadata\n\nDocument type: Clinical knowledge reference\nTopic: Pneumonia\nIntended use: Synthetic medical data generation and developer sandbox\nSource basis: World Health Organization (WHO) and Centers for Disease Control and Prevention (CDC)\n\nImportant limitation:\nThis document is intended only as a knowledge-base reference for a synthetic medical data generation project. It must not be used as a substitute for professional medical diagnosis, treatment, or clinica"
+  },
+  {
+    "chunk_id": 2,
+    "source": "pneumonia_overview.md",
+    "text": "oject. It must not be used as a substitute for professional medical diagnosis, treatment, or clinical decision-making.\n\n---\n\n## 1. Definition\n\nPneumonia is an infection of the lungs. It affects the small air sacs in the lungs, known as alveoli. During pneumonia, the alveoli can become filled with fluid or inflammatory material, which can interfere with normal oxygen exchange.\n\nPneumonia can range from mild illness to severe illness.\n\n---\n\n## 2. Common Causes\n\nPneumonia can be caused by different"
+  },
+  {
+    "chunk_id": 3,
+    "source": "pneumonia_overview.md",
+    "text": "from mild illness to severe illness.\n\n---\n\n## 2. Common Causes\n\nPneumonia can be caused by different types of infectious organisms.\n\nCommon causes include:\n\n- Bacteria\n- Viruses\n- Fungi\n- Less commonly, parasites\n\nThe organisms responsible for pneumonia can vary depending on the setting and the individual.\n\nCommunity-acquired pneumonia refers to pneumonia acquired outside a healthcare setting.\n\nHealthcare-associated forms of pneumonia can occur during or following healthcare exposure.\n\nVentilato"
+  },
+  {
+    "chunk_id": 4,
+    "source": "pneumonia_overview.md",
+    "text": "althcare-associated forms of pneumonia can occur during or following healthcare exposure.\n\nVentilator-associated pneumonia can occur in people receiving mechanical ventilation.\n\n---\n\n## 3. Common Symptoms\n\nSymptoms can vary depending on the cause and severity.\n\nCommon symptoms may include:\n\n- Cough\n- Fever\n- Chills\n- Shortness of breath\n- Fatigue\n- Chest pain, particularly with breathing or coughing\n- Nausea\n- Vomiting\n- Diarrhea\n- Confusion or altered mental status, particularly in some older a"
+  },
+  {
+    "chunk_id": 5,
+    "source": "pneumonia_overview.md",
+    "text": "ng\n- Nausea\n- Vomiting\n- Diarrhea\n- Confusion or altered mental status, particularly in some older adults\n\nThe presence of one or more symptoms does not by itself establish a diagnosis of pneumonia.\n\n---\n\n## 4. Risk Factors\n\nRisk of pneumonia can be influenced by several factors.\n\nExamples include:\n\n- Age\n- Certain underlying health conditions\n- Weakened immune systems\n- Certain behaviors\n- Environmental exposures\n\nRisk factors vary between individuals and different types of pneumonia.\n\n---\n\n##"
+  },
+  {
+    "chunk_id": 6,
+    "source": "pneumonia_overview.md",
+    "text": "nmental exposures\n\nRisk factors vary between individuals and different types of pneumonia.\n\n---\n\n## 5. Prevention\n\nMeasures that can reduce the risk of pneumonia include:\n\n- Appropriate vaccination\n- Good hand hygiene\n- Reducing exposure to tobacco smoke\n- Reducing indoor air pollution\n- Maintaining adequate nutrition\n- Following appropriate infection-prevention practices\n\nVaccination can help prevent some infections that can lead to pneumonia.\n\n---\n\n## 6. Diagnosis\n\nPneumonia diagnosis requires"
+  },
+  {
+    "chunk_id": 7,
+    "source": "pneumonia_overview.md",
+    "text": "vent some infections that can lead to pneumonia.\n\n---\n\n## 6. Diagnosis\n\nPneumonia diagnosis requires clinical assessment.\n\nHealthcare professionals may consider:\n\n- Symptoms\n- Medical history\n- Physical examination\n- Oxygenation status\n- Laboratory testing when appropriate\n- Imaging when appropriate\n\nA chest X-ray may provide useful clinical information, but an image alone should not be treated as a complete substitute for clinical evaluation.\n\n---\n\n## 7. Chest X-Ray Context\n\nChest X-rays can be"
+  },
+  {
+    "chunk_id": 8,
+    "source": "pneumonia_overview.md",
+    "text": "a complete substitute for clinical evaluation.\n\n---\n\n## 7. Chest X-Ray Context\n\nChest X-rays can be used as part of the evaluation of suspected pneumonia.\n\nRadiographic findings can vary depending on:\n\n- The underlying cause\n- Disease severity\n- Patient characteristics\n- Timing of imaging\n- Image quality\n- Positioning\n\nRadiographic appearance alone should therefore not be interpreted as a definitive diagnosis without appropriate clinical context.\n\n---\n\n## 8. Treatment Context\n\nTreatment depends"
+  },
+  {
+    "chunk_id": 9,
+    "source": "pneumonia_overview.md",
+    "text": "ive diagnosis without appropriate clinical context.\n\n---\n\n## 8. Treatment Context\n\nTreatment depends on the underlying cause, severity, patient characteristics, and clinical setting.\n\nBacterial pneumonia may require antibiotics, while antibiotics do not treat viral infections.\n\nTreatment decisions should be made by qualified healthcare professionals.\n\nThis knowledge base intentionally does not provide patient-specific treatment recommendations or medication dosing.\n\n---\n\n## 9. Synthetic Data Gen"
+  },
+  {
+    "chunk_id": 10,
+    "source": "pneumonia_overview.md",
+    "text": "vide patient-specific treatment recommendations or medication dosing.\n\n---\n\n## 9. Synthetic Data Generation Context\n\nThis document is used as supporting knowledge for a synthetic medical data generation system.\n\nThe system may use information from this document to generate fictional and non-identifiable patient histories or reports.\n\nGenerated records must be clearly treated as synthetic examples.\n\nA generated medical image or generated patient report must not be represented as a real patient's"
+  },
+  {
+    "chunk_id": 11,
+    "source": "pneumonia_overview.md",
+    "text": "A generated medical image or generated patient report must not be represented as a real patient's medical record.\n\n---\n\n## 10. AI Safety and Limitations\n\nThe RAG system should not:\n\n- Diagnose a real patient\n- Recommend medication for a real patient\n- Generate a real person's medical record\n- Claim that a generated X-ray is clinically authentic\n- Claim that synthetic data is automatically HIPAA compliant\n- Present generated information as verified clinical advice\n\nThe system should instead pro"
+  },
+  {
+    "chunk_id": 12,
+    "source": "pneumonia_overview.md",
+    "text": "compliant\n- Present generated information as verified clinical advice\n\nThe system should instead provide synthetic examples for software development, testing, research, and educational experimentation.\n\n---\n\n## Source References\n\n1. World Health Organization (WHO) - Pneumonia\n2. Centers for Disease Control and Prevention (CDC) - About Pneumonia\n\nSource access date:\n2026\n\n---\n\n## Retrieval Keywords\n\npneumonia\nlung infection\nchest x-ray\ncough\nfever\nshortness of breath\nchest pain\npneumonia symptoms"
+  },
+  {
+    "chunk_id": 13,
+    "source": "pneumonia_overview.md",
+    "text": "pneumonia\nlung infection\nchest x-ray\ncough\nfever\nshortness of breath\nchest pain\npneumonia symptoms\npneumonia causes\npneumonia risk factors\npneumonia prevention\npneumonia diagnosis\npneumonia treatment\ncommunity-acquired pneumonia\nhealthcare-associated pneumonia\nsynthetic medical data"
+  }
+]
