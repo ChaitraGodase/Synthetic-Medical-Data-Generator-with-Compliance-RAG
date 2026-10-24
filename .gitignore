@@ -1,9 +1,30 @@
-.venv/
-.venv-1/
-__pycache__/
-*.pyc
-.env
-.vscode/
-.idea/
 
-data/raw/
+# Private datasets and processed medical images
+data/
+datasets/
+*.dcm
+*.dicom
+*.png
+*.jpg
+*.jpeg
+*.npy
+
+# Generated records and metadata
+*.json
+
+# Model weights and checkpoints
+models/checkpoints/
+*.pth
+*.pt
+*.ckpt
+
+# Local RAG artifacts
+knowledge_base/vector_store/
+
+# Python environments and secrets
+.venv/
+venv/
+__pycache__/
+.env
+.env.*
+!.env.example
